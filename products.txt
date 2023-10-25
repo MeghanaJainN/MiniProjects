@@ -1,0 +1,15 @@
+Pencil,5.0
+PenPencil,15.0
+Sharpener,3.0
+FileFolder,50.0
+Scale15,5.0
+Scale30,10.0
+Scissors,35.0
+Stapler,40.0
+Notebook50,40.0
+Notebook100,60.0
+Ink Pen,100.0
+Glue,35.0
+A4,40.0
+A5,10.0
+FeviStick,45.0

@@ -1,0 +1,9 @@
+Meghana,Pen:5,Pencil:4
+Haniah,Eraser:4
+Dhatri,Pen:2,Stapler:2,Ink Pen:1
+Namjoon,Pen:5
+Monisha,A4:2
+Darshana,Ink Pen:1,FileFolder:2
+Nainika,Scale15:4,Scale30:1,Notebook50:1,Notebook100:1
+Punya,Stapler:1,Ink Pen:2
+Charith,Pencil:5,Glue:5

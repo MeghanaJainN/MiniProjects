@@ -1,0 +1,8 @@
+Username: Charith
+
+Product		Quantity		Price
+----------------------------------
+Pencil		5		$5.00
+Glue		5		$35.00
+----------------------------------
+Total:				$200.00
